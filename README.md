@@ -2,12 +2,21 @@
 
 <!-- **utsavsheth/utsavsheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on the North Star design system.
-- 🌱 I’m currently learning Universal design principles and GitHub Foundation.
-- 👯 I’m looking to collaborate on Design system projects
-- 🤔 I’m looking for help with Figms to GitHub collaboration for the Figma design system file into the codebase.
-- 💬 Ask me about Product design, UX design and Design systems.
-- 📫 How to reach me: hi@utsavsheth.in
-- 😄 Pronouns: He/His/Him
-- LinkedIn: https://linkedin.com/in/utsavsheth
-- ⚡ Fun fact: I'm a fine art student on weekends 😉
+The process is the foundation of success. Trust it, embrace it, and let it guide you towards greatness. - John Addison
+
+Weekday: Product designer 
+Weekend: Fine art student at Bhanwar Rathore Design Studio
+
+→ Designer since 2019 👨🏻💻
+→ Product designer: Data-driven designer. Sometimes designed from the heart
+→ Topic of interest: Design Ops, Design System, Visual Design, Branding
+→ Work experience: 4 years and counting
+→ Worked with SaffronStays, Josh Talks (Josh skills) and KonnectzIt
+→ Education: Interaction Design Foundation (IxDF) 🎓
+→ Fine Arts 🎨 student @BRDS (Since December 2023 - Exploring my childhood dream)
+→ Associate member of ADI (Associate Designers of India - Ahmedabad Chapter)
+
+My favourite quote
+Design is NEVER ending, so Keep iterating...
+
+Thank you
