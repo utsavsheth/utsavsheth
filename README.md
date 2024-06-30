@@ -11,6 +11,7 @@ Weekend: Fine art student at Bhanwar Rathore Design Studio
 → Product designer: Data-driven designer. Sometimes designed from the heart </br>
 → Topic of interest: Design Ops, Design System, Visual Design, Branding </br>
 → Work experience: 4 years and counting </br>
+→ Working with ScrutAutomation </br>
 → Worked with SaffronStays, Josh Talks (Josh skills) and KonnectzIt </br>
 → Education: Interaction Design Foundation (IxDF) 🎓 </br>
 → Fine Arts 🎨 student @BRDS (Since December 2023 - Exploring my childhood dream) </br>
