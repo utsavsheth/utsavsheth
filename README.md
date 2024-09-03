@@ -8,7 +8,7 @@ Weekday: Product designer
 Weekend: Fine art student at Bhanwar Rathore Design Studio
 
 → Designer since 2019 👨🏻💻 </br>
-→ Product designer: Data-driven designer. Sometimes designed from the heart </br>
+→ Product designer </br>
 → Topic of interest: Design Ops, Design System, Visual Design, Branding </br>
 → Work experience: 4 years and counting </br>
 → Working with ScrutAutomation </br>
